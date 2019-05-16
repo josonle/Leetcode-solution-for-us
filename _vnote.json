@@ -1,0 +1,27 @@
+{
+    "created_time": "2019-05-16T04:14:13Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-05-16T04:14:13Z",
+            "modified_time": "2019-05-16T04:14:13Z",
+            "name": "README.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "LeetCode_EveryDay"
+        },
+        {
+            "name": "技术文章分享"
+        },
+        {
+            "name": "面经"
+        }
+    ],
+    "version": "1"
+}
