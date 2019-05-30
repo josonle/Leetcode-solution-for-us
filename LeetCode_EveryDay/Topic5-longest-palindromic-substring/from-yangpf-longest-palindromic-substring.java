@@ -1,4 +1,4 @@
-//±©Á¦½â·¨
+//æš´åŠ›è§£æ³•
 class Solution {
     public String longestPalindrome(String s) {
         if(s.length()==0)   return "";
@@ -19,7 +19,7 @@ class Solution {
     }
 }
 
-//¶¯Ì¬¹æ»®
+//åŠ¨æ€è§„åˆ’
 class Solution {
     public String longestPalindrome(String s) {
         if(s.length()==0)   return "";
